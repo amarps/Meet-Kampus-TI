@@ -48,7 +48,7 @@ Berbahasa satu, bahasa tanpa kebohongan
 
 ## warna ungu di informatika
 warna ungu identic dengan informatika, karena warna ungu 
-adalah warna yang unik, spritual, misterius(warna janda) dan jarang ditemui di alam.
+adalah warna yang unik, spritual, misterius dan jarang ditemui di alam.
 
 ## Istilah buat cowo dan cewek di TI
 ### Cewe: Srikandi
