@@ -1,10 +1,10 @@
 ## 3T
-- Tau diri
-Harus mengetahui posisi diri sendiri dalam ruang lingkup perkuliahan atau masyarakat
-- Tau tempat
-Kita harus tau tempat untuk bertindak atau melakukan sesuatu
-- Tau waktu
-Tau waktu yang tepat untuk melakukan sesuatu
+- Tau diri<br />
+  Harus mengetahui posisi diri sendiri dalam ruang lingkup perkuliahan atau masyarakat
+- Tau tempat<br />
+  Kita harus tau tempat untuk bertindak atau melakukan sesuatu
+- Tau waktu<br />
+  Tau waktu yang tepat untuk melakukan sesuatu
 
 ## Solidaritas
 Solidaritas adalah saling percaya antara para anggota dalam satu kelompok
@@ -18,19 +18,19 @@ Adalah hal yang harus didahulukan dari hal lainya.
 Prioritas terbagi menjadi 3.
 
 ## tridharma perguruan tinggi
-- pembelajaran
+- pembelajaran<br />
 hal yang dipelajari bisa lanjut ke penelian
-- penelitian
+- penelitian<br />
 mencari sendiri pertanyaan diri sendiri
-- pengabdian
+- pengabdian<br />
 share yang kita pelajari
 
 ## tugas mahasiswa
-- agent of change
+- agent of change<br />
 membawa perubahan bagi lingkungan, masyarakat dan bangsa indonesia.
-- guardian of value
+- guardian of value<br />
 melahirkan solusi dan mngharapkan agar mahasiswa tidak merusak nilai luhur yang telah ada.
-- iron of stock
+- iron of stock<br />
 
 ## sumpah mahasiswa
 Sumpah Mahasiswa merupakan wujud nyata dari ikrar mahasiswa untuk menguatkan kebenaran dan kesungguhan
@@ -61,20 +61,20 @@ pilar.
 menjaga keutuhan srikandi
 
 ## fundamental teknik informatika
-- kenalan
+- kenalan<br />
 berjabat tangan sambil bilang
 kenalin bang, nama gua ... TI. Nama lu siapa?
 
-- Tos-an
+- Tos-an<br />
 tos 2 kali
 
 ## Lorong putih
 Lorong Putih tempat ngumpulnya anak TI letaknya berdekatan dengan kantin dan tulisan UMB.
 
 ## Teknik Informatika Culture
-- fkti
-- futsal
-malam jumat
+- fkti<br />
+- futsal<br />
+malam jumat<br />
 - bedah film
 malam minggu
 
@@ -93,10 +93,10 @@ Tepuk tangan 3 kali tepuk 2
 ```
 
 ## Siswa dan mahasiswa
-- Siswa
+- Siswa<br />
 Siswa masih dalam fase berkembang oleh sebab itu seorang siswa selalu diayomi
 dan diarahkan
 
-- Mahasiswa
+- Mahasiswa<br />
 Mahasiswa sudah dituntut untuk berpikir kritis dan menjadi penyambung lidah masyarakat atau biasa 
 disebut agent of change
