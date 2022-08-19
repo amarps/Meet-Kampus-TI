@@ -75,7 +75,7 @@ Lorong Putih tempat ngumpulnya anak TI letaknya berdekatan dengan kantin dan tul
 - fkti<br />
 - futsal<br />
 malam jumat<br />
-- bedah film
+- bedah film<br />
 malam minggu
 
 ## Yel-Yel
