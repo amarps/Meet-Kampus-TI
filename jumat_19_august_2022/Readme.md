@@ -79,6 +79,8 @@ malam jumat
 malam minggu
 
 ## Yel-Yel
+Viva Informatika
+```
 viva informatika
 "viva informatika"
 Tepuk tangan 3 kali tepuk 2
@@ -88,6 +90,7 @@ Tepuk tangan 3 kali tepuk 2
 Tepuk tangan 3 kali tepuk 2
 "Ungu yang megah ungu informatika"
 (tangan kiri mengepal keatas menandakan perlawanan)
+```
 
 ## Siswa dan mahasiswa
 - Siswa
