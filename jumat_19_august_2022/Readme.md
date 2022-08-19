@@ -33,6 +33,18 @@ melahirkan solusi dan mngharapkan agar mahasiswa tidak merusak nilai luhur yang 
 - iron of stock
 
 ## sumpah mahasiswa
+Sumpah Mahasiswa merupakan wujud nyata dari ikrar mahasiswa untuk menguatkan kebenaran dan kesungguhan
+mahasiswa untuk menguatkan kebenaran dan kesungguhan mahasiswa dalam menjalankan tanggung jawab besarnya
+sebagai agen perubahan dan agen control. Yang berbunyi
+
+```
+"Kami Mahasiswa Indonesia bersumpah"
+Bertanah air satu tanah air tanpa penindasan
+"Kami mahasiswa Indonesia bersumpah"
+Berbangsa satu bangsa yang gandrung akan keadilan
+"Kami mahasiswa Indonesia bersumpah"
+Berbahasa satu, bahasa tanpa kebohongan
+```
 
 ## warna ungu di informatika
 warna ungu identic dengan informatika, karena warna ungu 
