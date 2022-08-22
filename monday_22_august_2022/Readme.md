@@ -1,86 +1,86 @@
 Pemateri:
-nama : mayor maj riska sagoyo wicaksono
-phone : 081298497432
+nama : mayor maj riska sagoyo wicaksono <br/>
+phone : 081298497432 <br/>
 
-dekan bapak yaya sudarya Triana, M.Kom., Ph.D.
+dekan bapak yaya sudarya Triana, M.Kom., Ph.D.<br/>
 
-materi
-mangapa indonesia penting dan berharga ?
+materi<br/>
+mangapa indonesia penting dan berharga ?<br/>
 - kaya sumber daya alam
 - paru paru dunia ( 133.30 juta hektar)
 - 740 suku bangsa ( 270 suku di dunia)
 - 583 bahasa daerah
 - choke point
 
-mengapa kita harus cimta tanah air ?
+mengapa kita harus cimta tanah air ?<br/>
 - generasi muda merupakan penerus bangsa 
 - bangsa yang besar melanjutkan tradisi
 - waspada penjajahan gaya baru
 - mempertahankan dan mengisi kemerdekaaan.
 
-cinta tanah air = nasionalisme
-mahasiswa yang cinta tanah air adalah mahsiswa yang berjiwa nasionalis
+cinta tanah air = nasionalisme<br/>
+mahasiswa yang cinta tanah air adalah mahsiswa yang berjiwa nasionalis<br/>
 
 naisonalisme adalah suatu paham yang meciptakan dan mempertahankan kedaulatan sebuah negara atau rasa ingin mempertahankan negaranya, baik dari internal mapupun eksternal 
 
-bentuk nasionalisme di jaman penjajahan
+bentuk nasionalisme di jaman penjajahan<br/>
 ( palagan ambarawa)
 
-bentuk naisonalisme awal kemerdekanan 
-( mata mata tentara republik yang tertangkap belanda di semarang tahun 1947
+bentuk naisonalisme awal kemerdekanan <br/>
+( mata mata tentara republik yang tertangkap belanda di semarang tahun 1947<br/>
 
-bentuk nasionalisme di awal kemerdekaan 
+bentuk nasionalisme di awal kemerdekaan <br/>
 ( belandas menguasai ibukota negara di jogjakarta dalam agresi militer belanda ke II
 , pembetukan PDRI pada tanggal 19 des 1948 oleh syafriddin prawiranegara)
 
-cara mencitai indonesia sebagai bentuk nasionalisme 
+cara mencitai indonesia sebagai bentuk nasionalisme <br/>
 - kenali dan pahami sejarah 
 - harumkan nama bangsa sesuai dengan bidangnmya
 - cintai produk lokal
 - mentaati hukum dan perundangan - undangan
 - menjaga persatuan dan kesatuan 
 
-setiap warga negara memiliki tanggung jawab yang sama terhadap bangsanya sesuai bidangnya msing masing.
+setiap warga negara memiliki tanggung jawab yang sama terhadap bangsanya sesuai bidangnya msing masing.<br/>
 
-tanggung jawab sebagai makhluk ciptaan tuhan yang maha esa 
-( melaksanakan segala yang diperintahkan oleh agama dan  menjauihi segala yang dilarang oleh agama).
+tanggung jawab sebagai makhluk ciptaan tuhan yang maha esa <br/>
+( melaksanakan segala yang diperintahkan oleh agama dan  menjauihi segala yang dilarang oleh agama).<br/>
 
-tanggung jawab terhadap diri sendiri sebagai mahasiswa
+tanggung jawab terhadap diri sendiri sebagai mahasiswa<br/>
 ( melaksanakan segala aturan dan kewajiban sebagai mahasiswa)
 
-tanggung jawab terhadap keluarga
+tanggung jawab terhadap keluarga<br/>
 ( sebagai seorang anak harus berbakti terhadap orang tua)
 
-tanggung jawab terhadap masyrakat sekitar
+tanggung jawab terhadap masyrakat sekitar<br/>
 ( peduli terhdadap lingkungan dan ikuti ambil bagian dalam kegiatan yang positif).
 
-tanggung jawab terhadap bangsa dan negara 
+tanggung jawab terhadap bangsa dan negara <br/>
 ( sadar akan tugas mahasiswa sebagai generasi penerus bangsa).
 
-mengapa harus pancasila 
+mengapa harus pancasila <br/>
 1. alasan historis
 2. alasan filosofis
 3. alasan yuridis
 4. alasan sosiologis
 
-alasan histois 
+alasan histois <br/>
 ( adalah dasae negara dan idoelogi yang disusun oleh pendiri negara indonesia padqa tahun 1945).
 
-melalui rangkaian proses proses : 
+melalui rangkaian proses proses : <br/>
 1. 1 juni 1945
 2. 22 juni 1945
 3. 18 agustus 1945
 
-alasan filosofi
-1. pancasila bersumber dari nilai nilai : 
-a. bersumber dari pengalaman fakta.
-b. bersumber dari pengalaman akal 
+alasan filosofi<br/>
+1. pancasila bersumber dari nilai nilai : <br/>
+a. bersumber dari pengalaman fakta. <br/>
+b. bersumber dari pengalaman akal <br/>
 
-alsan yuridis
-1. pembukaan UUD RI 1945
+alsan yuridis <br/>
+1. pembukaan UUD RI 1945 
 2. UU Nomor
 
-alasan sosiologis 
+alasan sosiologis <br/>
 1. globalisasi 1989-1990 , reformasi 1997-1998 , the lack of ideologi 
 2. - individulisme 
    - fundamentalisme pasar
@@ -88,25 +88,25 @@ alasan sosiologis
    - dominasi sistem hukum modern
    - kosmopolitanisme
 
-agen perubahan adalah seseorang atau individu yang betugas empengaruhi orang 
-lain agar mengambil keputusan sesuai dengan arah dikehendakinya.
-#Pancasila, Nasionalisme, dan semangat kebangsaan#
-Pembicara => Mayor Riska Sayogo Wicaksono
+agen perubahan adalah seseorang atau individu yang betugas empengaruhi orang <br/>
+lain agar mengambil keputusan sesuai dengan arah dikehendakinya.<br/>
+#Pancasila, Nasionalisme, dan semangat kebangsaan#<br/>
+Pembicara => Mayor Riska Sayogo Wicaksono<br/>
 
-∆ Indonesia menjadi negara yang cukup diperhitungkan bahkan oleh benua lain
+∆ Indonesia menjadi negara yang cukup diperhitungkan bahkan oleh benua lain<br/>
 - Hal ini disebabkan oleh sumber daya alam kita yang melimpah
 - Kita juga merupakan paru-paru dunia, karena lahan hutan kita yang sangat luas
 - Kita memiliki 740 suku, dan 270 diantaranya berasal dari papua
 - memiliki 583 bahasa daerah, namun tetap bisa berkomunikasi karena bahasa yang satu yaitu bahasa Indonesia
 - Indonesia juga merupakan choke point dengan selat-selat yang ada di Indonesia
 
-∆ Kita harus mencintai tanah air kita
+∆ Kita harus mencintai tanah air kita<br/>
 - karena kita memiliki banyak generasi muda yang menjadi generasi penerus bangsa
 - Bangsa kita yang besar dan banyak budaya ini harus melanjutkan tradisinya
 - Kita harus waspada akan penjajahan dengan gaya baru
 - Sebagai generasi penerus maka harus mempertahankan dan mengisi kemerdekaan
 
-∆ Cinta tanah air = Nasionalisme
+∆ Cinta tanah air = Nasionalisme<br/>
 - mahasiswa yang mencintai tanah air adalah mahasiswa yang berjiwa nasionalis
 
 ∆ Nasionalisme -> Suatu paham yang menciptakan dan mempertahankan kedaulatan sebuah negara atau rasa ingin mempertahankan negaranya, baik dari internal maupun eksternal
