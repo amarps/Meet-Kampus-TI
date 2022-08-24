@@ -31,6 +31,9 @@ membawa perubahan bagi lingkungan, masyarakat dan bangsa indonesia.
 - guardian of value<br />
 melahirkan solusi dan mngharapkan agar mahasiswa tidak merusak nilai luhur yang telah ada.
 - iron of stock<br />
+mahasiswa diminta untuk memupuk atau memiliki moral, akhlak 
+yang baik, kemandirian, dan yang paling penting adalah tanggung jawab untuk
+menjadi Tulang Punggung Masa Depan.
 
 ## sumpah mahasiswa
 Sumpah Mahasiswa merupakan wujud nyata dari ikrar mahasiswa untuk menguatkan kebenaran dan kesungguhan
