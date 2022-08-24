@@ -76,7 +76,7 @@ Lorong Putih tempat ngumpulnya anak TI letaknya berdekatan dengan kantin dan tul
 - futsal<br />
 malam jumat<br />
 - bedah film<br />
-malam minggu
+malam sabtu
 
 ## Yel-Yel
 Viva Informatika
