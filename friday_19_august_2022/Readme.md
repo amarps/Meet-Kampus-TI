@@ -78,7 +78,7 @@ malam jumat<br />
 - bedah film<br />
 malam sabtu
 
-## Yel-Yel
+## Viva
 Viva Informatika
 ```
 viva informatika
