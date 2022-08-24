@@ -14,8 +14,8 @@ atau komunitas. Atau bisa disebut kompak
 Royalitas disini adalah kita tidak pelit mengenai materi atau uang
 
 ## Prioritas
-Adalah hal yang harus didahulukan dari hal lainya.
-Prioritas terbagi menjadi 3.
+Hal yang harus didahulukan daripada hal lainnya, prioritas dibagi menjadi 3, yaitu Prioritas
+Penting Mendesak, Prioritas Mendesak, dan Prioritas Penting.
 
 ## tridharma perguruan tinggi
 - pembelajaran<br />
